@@ -63,7 +63,7 @@ public class CharacterControls : MonoBehaviour {
 			GetComponent<Rigidbody>().AddForce(velocityChange, ForceMode.VelocityChange);
 			
 			// Jump
-			if (Input.GetButtonDown("Jump") && grounded){
+			if (Input.GetButtonDown("Jump") && grounded && canJump){
 				Jump ();
 			}
 		}
