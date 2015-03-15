@@ -7,10 +7,109 @@ Guns:
 	 - Futuristic
 	 
 	What kind:
-	 - name
+	 - rifles
+		plasma (R)
+			maximal travel time, most dmg, can overheat
+		laser (CR)
+			minimal travel time, middle dmg, can overheat
+		bullet (CR)
+			minimal travel time, least dmg
+	 - shotguns
+		plasma (R)
+			maximal travel time, most dmg, can overheat
+		laser (CR)
+			minimal travel time, middle dmg, can overheat
+		bullet (CR)
+			minimal travel time, least dmg
+	 - snipers
+		plasma (R)
+			maximal travel time, most dmg, can overheat, charged shot
+		laser (CR)
+			minimal travel time, middle dmg, can overheat
+		bullet (CR)
+			minimal travel time, least dmg
+	 - launchers
+		plasma (R)
+			maximal travel time, most dmg, can overheat, charged shot
+		laser (CR)
+			minimal travel time, middle dmg, can overheat
+		bullet (CR)
+			minimal travel time, least dmg
+	 - pistols
+		plasma (R)
+			maximal travel time, most dmg, can overheat, charged shot (?)
+		laser (CR)
+			minimal travel time, middle dmg, can overheat
+		bullet (CR)
+			minimal travel time, least dmg
 
 Maps:
 	Style: 
 	 - Futuristic
+	 
+Ideas:
+	Buying system:
+		Store:
+		Buy items with Cr and RCr
+			Cr -> In game gained after match
+			RCr -> Buying with real money
+			
+		Gun Upgrades:
+			Buying charge upgrade for plasma & >Laser (Only sniper (?))<
+			Scopes (2x, 4x, 8x)
+			Silencer (Sniper, Pistol, Rifle (Only bullet))
+			Laser sight (Sniper, Pistol, Rifle)
+			Heartbeat sensor (?)
+			Aim assist (Plasma)
+		
+		Grenades:
+			Jumping grenade; Launches players in the air (Damage to others except yourself or team mates)
+			Claymores; Activate by everyone (No damage for team mates and yourself)
+			Smoke
+			Flash
+			Sticky
+			Grenade
+		
+		Guns:
+			Rifles:
+				B-RG-001
+				
+				L-RG-01-R
+				L-RG-01-G
+				L-RG-01-B
+				
+				P-RG-01-B
+				P-RG-01-R
+			
+			Shotgun:
+			
+			Sniper:
+			
+			Pistol:
+			
+			Melee:
+			
+	
+	Gun system:
+		Plasma guns:
+			Most damage
+			Can overheat
+			Longest travel time
+			If possible for a charged shot bullets are drained (?)
+			
+		Bullet:
+			Least damage
+			Can't overheat
+			Middle travel time
+			Burst/Full Automatic/Single shot
+			
+		Laser:
+			Middle damage
+			Can overheat
+			Least travel time
+			If possible for a charged shot bullets are 1/3 drained (Depends) and maximal overheated
+			
+			
+		 
 
 
