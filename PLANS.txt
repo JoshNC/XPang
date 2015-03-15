@@ -1,0 +1,16 @@
+Graphics:
+	Style:
+	 - Futuristic (not too high resolution)
+	 
+Guns:
+	Style:
+	 - Futuristic
+	 
+	What kind:
+	 - name
+
+Maps:
+	Style: 
+	 - Futuristic
+
+
